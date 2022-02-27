@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLBroker", "SQLBroker\SQLBroker.csproj", "{59522986-ED72-4C5C-A2E1-EA36FD56CDE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59522986-ED72-4C5C-A2E1-EA36FD56CDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59522986-ED72-4C5C-A2E1-EA36FD56CDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59522986-ED72-4C5C-A2E1-EA36FD56CDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59522986-ED72-4C5C-A2E1-EA36FD56CDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3599F9EF-9152-4E0B-8F57-670F854E2F71}
+	EndGlobalSection
+EndGlobal
