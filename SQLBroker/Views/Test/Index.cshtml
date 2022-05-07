@@ -1,9 +1,10 @@
 ﻿
 @{
     ViewBag.Title = "Index";
+    var a = ViewBag.Message;
 }
 @Html.Hidden("Get", Url.Action("dataChange", "Test"))
-<h2>Index</h2>
+<h2>Index  @a</h2>
 <div class="container">
     <ul id="discussion"></ul>
 </div>
